@@ -3,6 +3,4 @@ A collection of unsupervised machine learning algorithms leveraged against a Uni
 
 ML Algorithms used include:
 
-Hierarchical Agglomerative CLustering
-K-Means Clustering
-Principal Component Analysis
+Hierarchical Agglomerative Clustering, K-Means Clustering, Principal Component Analysis
